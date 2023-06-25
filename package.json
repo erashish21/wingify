@@ -1,0 +1,14 @@
+{
+  "name": "wingify-assissments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Ashish kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
+}
